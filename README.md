@@ -1,6 +1,7 @@
 
 ![لقطة الشاشة 2023-08-09 194056](https://github.com/Argwoan/robat/assets/138804055/989e95a2-1697-4696-9050-81e60dac5d1e)
 
+i ues the Ros2022
 
 ## Install ROS on Remote PC
 ```
